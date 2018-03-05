@@ -21,7 +21,7 @@ public class Provesgit {
         
         System.out.println("Afengint mes canvis!");
         
-        
+        System.out.println("desde l'ordinador numero 7 de la classe també hola");
         
     }
     
