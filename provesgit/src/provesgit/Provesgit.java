@@ -19,7 +19,7 @@ public class Provesgit {
         
         System.out.println("Hola git!");
         
-        System.out.println("Afengint canvis!");
+        System.out.println("Afengint mes canvis!");
         
         
         
